@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Projeto de TCC para FATEC indaiatuba ",
+  "main": "server.ts",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChacaraKairo/Projeto-de-TCC.git"
+  },
+  "author": "Kairo Chácara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChacaraKairo/Projeto-de-TCC/issues"
+  },
+  "homepage": "https://github.com/ChacaraKairo/Projeto-de-TCC#readme"
+}
