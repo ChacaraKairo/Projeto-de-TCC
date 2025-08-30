@@ -1,0 +1,85 @@
+Com base nos documentos fornecidos sobre o seu sistema "NossoZelo", preparei uma estrutura completa e detalhada para os Termos de Uso da sua plataforma. Este documento foi elaborado considerando as funcionalidades, os tipos de usuários e o modelo de negócio descritos nos arquivos `MVP_Tecnico.docx` e `MVP1.docx`.
+
+---
+
+### **Termos e Condições Gerais de Uso da Plataforma NossoZelo**
+
+**Última atualização:** [Inserir Data]
+
+Bem-vindo à NossoZelo!
+
+Estes são os Termos e Condições Gerais de Uso ("Termos") que regem o acesso e a utilização da plataforma NossoZelo ("Plataforma"), que conecta Clientes em busca de serviços de cuidado com Prestadores qualificados ("Prestadores").
+
+Ao utilizar nossa Plataforma, você declara ter lido, compreendido e concordado com as condições estabelecidas neste documento. Caso não concorde, você não deverá utilizar a Plataforma.
+
+**1. Visão Geral e Definições**
+
+1.1. [cite_start]**Plataforma:** Refere-se ao site, aplicativos e quaisquer outras ferramentas disponibilizadas pela NossoZelo para conectar Clientes e Prestadores[cite: 3].
+1.2. [cite_start]**Cliente:** Pessoa física ou jurídica que utiliza a Plataforma para buscar e contratar os serviços oferecidos pelos Prestadores[cite: 82].
+1.3. [cite_start]**Prestador:** Cuidador, Enfermeiro ou Acompanhante devidamente cadastrado na Plataforma para oferecer seus serviços aos Clientes[cite: 83].
+1.4. **Usuários:** Termo genérico para se referir a Clientes e Prestadores.
+1.5. **Serviços:** Atividades de cuidado, acompanhamento e enfermagem oferecidas pelos Prestadores através da Plataforma.
+
+**2. Objeto da Plataforma**
+
+2.1. [cite_start]A NossoZelo é uma plataforma de tecnologia que atua como intermediária, facilitando a conexão entre Clientes que necessitam de serviços de cuidado e Prestadores autônomos que desejam oferecer tais serviços[cite: 3, 81].
+2.2. A NossoZelo **não** presta diretamente os serviços de cuidado, sendo sua responsabilidade limitada à funcionalidade e segurança da intermediação realizada pela Plataforma. A relação contratual para a prestação do serviço é estabelecida diretamente entre o Cliente e o Prestador.
+
+**3. Cadastro e Contas de Usuário**
+
+3.1. Para utilizar a Plataforma, os Usuários deverão realizar um cadastro, fornecendo informações precisas, completas e atualizadas.
+3.2. [cite_start]**Para Prestadores:** Poderá ser exigido o envio de documentos comprobatórios de identidade, qualificações e experiência profissional para validação do cadastro[cite: 95, 101]. O Prestador é o único responsável pela veracidade e autenticidade dos documentos enviados.
+3.3. Cada Usuário é responsável por manter a confidencialidade de sua senha e por todas as atividades que ocorram em sua conta.
+
+**4. Regras e Responsabilidades**
+
+4.1. **Responsabilidades do Cliente:**
+    * Fornecer informações claras e precisas sobre as necessidades do serviço a ser contratado.
+    * [cite_start]Realizar o pagamento pelos serviços contratados exclusivamente através dos meios disponibilizados pela Plataforma[cite: 36, 91].
+    * [cite_start]Avaliar o Prestador de forma justa e honesta após a conclusão do serviço[cite: 22, 40].
+    * Tratar os Prestadores com respeito e dignidade.
+
+4.2. **Responsabilidades do Prestador:**
+    * [cite_start]Manter seu perfil atualizado com informações verídicas sobre suas qualificações, experiência e disponibilidade[cite: 90].
+    * Prestar os serviços com diligência, profissionalismo e de acordo com o que foi combinado com o Cliente.
+    * [cite_start]Cumprir os horários e datas agendados através da Plataforma[cite: 15].
+    * [cite_start]Comunicar-se de forma clara e profissional com os Clientes, utilizando as ferramentas de comunicação da Plataforma, como o chat integrado[cite: 25, 98].
+
+**5. Processo de Contratação e Pagamento**
+
+5.1. [cite_start]O Cliente poderá buscar Prestadores utilizando filtros como especialidade, localização e preço[cite: 33, 89].
+5.2. [cite_start]A contratação é formalizada quando o Cliente realiza o agendamento e o pagamento é confirmado através da Plataforma[cite: 15, 36].
+5.3. [cite_start]Os pagamentos serão processados por um gateway de pagamento seguro integrado (ex: Stripe, Mercado Pago, PagSeguro)[cite: 36, 45, 113].
+5.4. [cite_start]A NossoZelo reterá uma taxa de serviço sobre o valor de cada transação como remuneração por seus serviços de intermediação[cite: 37, 107]. [cite_start]O valor líquido será repassado ao Prestador conforme as políticas financeiras da Plataforma[cite: 37, 102].
+
+**6. Monetização e Planos para Prestadores**
+
+6.1. [cite_start]Além da taxa sobre os serviços, a Plataforma poderá oferecer Planos de Assinatura para os Prestadores[cite: 18, 108].
+6.2. [cite_start]Estes planos poderão oferecer benefícios como maior visibilidade nos resultados de busca, destaque no perfil e outras vantagens para aumentar suas oportunidades de contratação[cite: 97, 109, 110, 111].
+
+**7. Sistema de Avaliações e Denúncias**
+
+7.1. [cite_start]Após a realização de um serviço, o Cliente poderá deixar uma avaliação sobre o Prestador, que ficará visível em seu perfil público[cite: 22, 40].
+7.2. [cite_start]A Plataforma disponibiliza um canal para que os Usuários possam reportar problemas, condutas inadequadas ou violações a estes Termos ("Denúncias")[cite: 23].
+7.3. [cite_start]A equipe de Administração da NossoZelo analisará as denúncias e poderá tomar medidas como advertências, suspensão temporária ou exclusão definitiva da conta do Usuário infrator, conforme a gravidade da ocorrência[cite: 101, 103].
+
+**8. Propriedade Intelectual**
+
+8.1. Todo o conteúdo disponibilizado na Plataforma, incluindo, mas não se limitando a, marcas, logotipos, software, layouts e textos, é de propriedade exclusiva da NossoZelo e protegido pelas leis de propriedade intelectual.
+
+**9. Limitação de Responsabilidade**
+
+9.1. A NossoZelo atua como mera intermediária e não se responsabiliza pela qualidade, segurança ou execução dos serviços prestados pelos Prestadores.
+9.2. A responsabilidade por danos de qualquer natureza decorrentes da relação entre Cliente e Prestador é exclusiva das partes envolvidas.
+
+**10. Privacidade e Proteção de Dados**
+
+10.1. A NossoZelo se compromete a proteger a privacidade de seus Usuários. As informações coletadas são tratadas em conformidade com a nossa Política de Privacidade, que é parte integrante destes Termos.
+
+**11. Disposições Gerais**
+
+11.1. A NossoZelo poderá alterar estes Termos a qualquer momento. A versão atualizada estará sempre disponível na Plataforma, e os Usuários serão notificados sobre alterações significativas.
+11.2. Estes Termos são regidos pelas leis da República Federativa do Brasil.
+11.3. Fica eleito o foro da comarca de [Inserir Cidade/Estado] para dirimir quaisquer controvérsias oriundas destes Termos de Uso.
+
+Ao continuar utilizando a Plataforma NossoZelo, você concorda em cumprir estes Termos e Condições.
